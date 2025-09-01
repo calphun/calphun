@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Calvin :)
-- 👀 I’m interested in Cyber, IT, Security Operations, and Gaming 
+- 👀 You can find all of my personal projects here!
 - 🌱 I’m currently working on my Bachelor's
-- 📫 How to reach me Calphunn@outlook.com (Only for professional inquiries please!)
-- 😄 Pronouns: He/They
+- 📫 How to reach me: Calv.Phun@gmail.com
 
 <!---
 calphun/calphun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
